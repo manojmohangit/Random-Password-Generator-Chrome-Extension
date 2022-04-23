@@ -1,0 +1,9 @@
+{
+    "name": "Random Password Generator",
+    "description": "Generate a random password generator by simple click and copy it",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "interface.html"
+    }
+  }
